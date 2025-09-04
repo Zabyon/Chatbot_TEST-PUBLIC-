@@ -1,6 +1,6 @@
-# Titre du chatbot
+# Chatbot de test coco
 
-Message initial
+Message initial de type question ajoutée la mention a chatmd
 
 1. [Choix sans issue](choix 1)
 2. [Deuxième choix](choix 2)
