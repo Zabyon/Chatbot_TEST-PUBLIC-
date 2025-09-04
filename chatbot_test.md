@@ -6,7 +6,8 @@ Message initial de type question ajoutée la mention a chatmd
 2. [Deuxième choix](choix 2)
 
 ## choix 1
-C'est la fin de la discussion 
+C'est la fin de la discussion
+1. [On recommence ?](https://github.com/Zabyon/Chatbot_TEST-PUBLIC-/blob/3422e26cf4ba375458b96c273f5dc60f457e62cc/chatbot_test.md)
 
 ## choix 2
 - déclencheur 1
