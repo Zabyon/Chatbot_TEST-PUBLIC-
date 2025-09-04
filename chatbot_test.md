@@ -2,11 +2,11 @@
 
 Message initial
 
-1. [Premier choix](choix 1)
+1. [Choix sans issue](choix 1)
 2. [Deuxième choix](choix 2)
 
 ## choix 1
-Message pour le choix 1
+C'est la fin de la discussion 
 
 ## choix 2
 - déclencheur 1
