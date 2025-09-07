@@ -1,3 +1,7 @@
+---
+useAvatar:true
+---
+
 # Chatbot de test coco
 
 Message initial de type question ajoutée la mention a chatmd
