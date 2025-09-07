@@ -2,6 +2,12 @@
 
 Message initial de type question ajoutée la mention a chatmd
 
+<section class="unique">
+:::info
+Ce chatbot a été créé par M. Bard
+:::
+</section>
+
 1. [Choix sans issue](choix 1)
 2. [Deuxième choix](choix 2)
 
@@ -31,7 +37,7 @@ Pour éviter le hors-sujet dans une dissertation philosophique, il faut bien ana
 2. [Comment on rédige ?](Rédiger)
 3. 
 
-# Faire un gâteau
+## Faire un gâteau
 
 <section class="unique">
 Ce chatbot vous permet de choisir une recette. Laissez-vous guider par ce chatbot !
