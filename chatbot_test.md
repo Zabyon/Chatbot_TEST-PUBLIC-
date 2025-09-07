@@ -15,7 +15,7 @@ C'est la fin de la discussion
 
 Message pour le choix 2
 
-1. [Bouton cliquable 1](cible bouton 1)
+1. [Faire un gâteau](Faire un gâteau)
 2. [Hors Sujet](Hors sujet)
 
 ## Hors sujet
@@ -29,4 +29,34 @@ Pour éviter le hors-sujet dans une dissertation philosophique, il faut bien ana
 
 1. [Comment bien analyser le sujet ?](Analyser le sujet)
 2. [Comment on rédige ?](Rédiger)
+3. 
+
+# Faire un gâteau
+
+<section class="unique">
+Ce chatbot vous permet de choisir une recette. Laissez-vous guider par ce chatbot !
+</section>
+
+Quel gâteau voulez-vous faire ?
+
+<section class="unique">
+:::info
+Ce chatbot a été créé par M. Cuisine
+:::
+</section>
+
+1. [Un gâteau à la banane](Banane)
+2. [Un gâteau à la poire](Poire)
+
+## Banane
+
+La recette : …
+
+1. [Retour au menu initial]()
+
+## Poire
+
+La recette : …
+
+2. [Faire un autre gâteau !]()
 3. 
