@@ -1,5 +1,5 @@
 ---
-useAvatar:true
+avatar:https://cdn.leonardo.ai/users/65caef68-b2fc-4b3c-aea2-9b83729fe324/generations/59b4e145-2253-4b8c-b6f2-d82ffa463902/segments/4:4:1/Lucid_Origin_Professional_graphic_design_2D_illustration_Creat_3.jpg
 ---
 
 # Chatbot de test coco
